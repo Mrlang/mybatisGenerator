@@ -1,0 +1,2 @@
+# mybatisGenerator
+使用mybatisGenerator自动生成一系列文件
